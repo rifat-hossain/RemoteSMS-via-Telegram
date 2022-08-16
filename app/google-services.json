@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330167566800",
+    "project_id": "remote-sms-8bd49",
+    "storage_bucket": "remote-sms-8bd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330167566800:android:c3cdf5e9b1fe2c16dff9d5",
+        "android_client_info": {
+          "package_name": "com.rhossain.remotesms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330167566800-qtisjrr3200jgqscf9cupuv9v0cafc6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQhkLZrzAufM9aufxIXEE9BysI2X8kfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330167566800-qtisjrr3200jgqscf9cupuv9v0cafc6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
